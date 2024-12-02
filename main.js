@@ -2,9 +2,9 @@
 //------------------------------------------------------------------------------------------------------------------------
 const people = [
     { firstName: "Elisa", lastName: "Solberg", age: 33, job: true },
-    { firstName: "Jane", lastName: "Smith", age: 30, job: false },
+    { firstName: "Eva", lastName: "Berg", age: 45, job: false },
     { firstName: "Melissa", lastName: "Brown", age: 20, job: true },
-    { firstName: "Bob", lastName: "Johnson", age: 18, job: false },
+    { firstName: "Adam", lastName: "Williams", age: 35, job: false },
     { firstName: "Alissa", lastName: "Aksel", age: 28, job: true }
 ];
 
